@@ -33,8 +33,8 @@ The Makefile includes targets for building and installing `libcoral` on both x86
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/google-coral/libcoral.git
-   cd libcoral
+   git clone https://github.com/jamespfinn/libcoral-builder
+   cd libcoral-builder
    ```
 
 2. **Build and Install for x86_64**:
